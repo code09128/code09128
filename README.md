@@ -1,8 +1,10 @@
-# Github Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3)]([https://github.com/code09128/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3))
-
+# <p align=center> Github Profile Trophy 🏆</p> 
+<div align = center>
+  <img src = "[![trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3)]"([https://github.com/code09128/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3))
+</div>
+  
 # 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical)]([https://github.com/code09128/github-readme-stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical)) 
+[![code09128's GitHub stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical)]([https://github.com/code09128/github-readme-stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical)) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code09128&layout=compact)]([https://github-readme-stats.vercel.app/api/top-langs/?username=code09128&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=code09128&layout=compact))
 
 # IDEs/Editors 💻
