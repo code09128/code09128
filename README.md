@@ -1,9 +1,11 @@
 # <p align=center> Github Profile Trophy 🏆</p> 
 
 <div align = center>
-[![trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3)]"([https://github.com/code09128/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3))
+  <img src = "[![trophy]https://github.com/code09128/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3"
+</div>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3)]([https://github.com/code09128/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3))
 
-# 
 [![code09128's GitHub stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical)]([https://github.com/code09128/github-readme-stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical)) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code09128&layout=compact)]([https://github-readme-stats.vercel.app/api/top-langs/?username=code09128&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=code09128&layout=compact))
 
@@ -18,5 +20,7 @@
 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+
+# Languages 📋
 
 </div>
