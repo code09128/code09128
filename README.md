@@ -3,7 +3,7 @@
 <div align = center>
   <img src = "[![trophy]https://github.com/code09128/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3"
 </div>
-  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3)]([https://github.com/code09128/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3))
 
 [![code09128's GitHub stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical)]([https://github.com/code09128/github-readme-stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical)) 
@@ -34,4 +34,5 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 </div>
