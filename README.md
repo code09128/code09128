@@ -19,7 +19,7 @@
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Intellij Idea](https://img.shields.io/badge/-IntellijIdea-666666.svg?style=for-the-badge&logo=intellij-idea&logoColor=white))
+![Intellij Idea](https://img.shields.io/badge/-IntellijIdea-666666.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 # Languages 📋
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
