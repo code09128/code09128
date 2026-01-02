@@ -1,13 +1,17 @@
 # <p align=center> Github Profile Trophy 🏆</p> 
 
-<div align = center>
-  <img src = "[![trophy]https://github.com/code09128/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3"
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=code09128&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=code09128&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3)]([https://github.com/code09128/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=code09128&theme=alduin&row=2&column=3))
-
-<!-- [![code09128's GitHub stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical)]([https://github.com/code09128/github-readme-stats](https://github-readme-stats.vercel.app/api?username=code09128&show_icons=true&theme=radical))  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code09128&layout=compact)]([https://github-readme-stats.vercel.app/api/top-langs/?username=code09128&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=code09128&layout=compact))
 
 # IDEs/Editors 💻
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -24,7 +28,7 @@
 # Languages 📋
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
